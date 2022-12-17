@@ -1,0 +1,24 @@
+body{
+  background: radial-gradient( rgba(0,212,255,1) 0%, rgba(5,0,83,1) 0%, rgba(9,9,121,1) 100%);
+}
+section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.container{
+  border: 2px solid grey;
+  padding: 20px;
+  border-radius: 10%;
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+button{
+  background: rgb(0,212,255);
+}
+
+li{
+  list-style: none;
+}
